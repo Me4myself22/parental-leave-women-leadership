@@ -20,3 +20,10 @@ Does stronger parental leave policy predict higher representation of women in co
 - notebooks: analysis notebooks
 - src: reusable scripts
 - reports: written deliverables
+
+## Sprint 2
+- Successfully acquired and cleaned primary datasets
+- Constructed composite parental leave policy strength index
+- Conducted exploratory data analysis with visualizations
+- Identified data limitations and refined analytical approach
+- Exported finalized analytical dataset for regression modeling
