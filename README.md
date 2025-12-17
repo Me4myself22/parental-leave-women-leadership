@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Parental Leave Policy and Women's Leadership Representation
 
 ## Project Overview
